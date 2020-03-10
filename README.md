@@ -7,3 +7,6 @@ It depends on [raylib](https://www.raylib.com/) library. Before running this you
 $ make
 $ ./solver
 ```
+
+## Screenshot
+![Sudoku Solver Visualizer](./screenshot.png)
